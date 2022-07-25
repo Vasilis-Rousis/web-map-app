@@ -1,0 +1,13 @@
+#map{
+    height: 58em;
+    width: 100%;
+}
+
+#slidertext,#sliderhint{
+    padding-right:10px;
+    text-align: center;
+}
+
+#myRange{
+    margin-right:10px;
+}
